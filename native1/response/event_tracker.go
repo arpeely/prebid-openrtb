@@ -3,7 +3,7 @@ package response
 import (
 	"encoding/json"
 
-	"github.com/prebid/openrtb/v20/native1"
+	"github.com/arpeely/prebid-openrtb/v20/native1"
 )
 
 // 5.8 Event Tracker Response Object

@@ -3,7 +3,7 @@ package request
 import (
 	"encoding/json"
 
-	"github.com/prebid/openrtb/v20/native1"
+	"github.com/arpeely/prebid-openrtb/v20/native1"
 )
 
 // 4.6 Data Object
